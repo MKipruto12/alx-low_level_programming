@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-/*
- * main-starts execution and termination of program printing phrase
- * return 0: means program was executed properly else
+/**
+ * main - starting point , encloses code block for execution.
+ * returns 0 if executed properly.
  */
-int main(void) 
+int main (void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
