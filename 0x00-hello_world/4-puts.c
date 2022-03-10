@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** #include- library header
+/*
  * main- starts execution and termination of program
  * return 0: means program was executed properly else
  */
