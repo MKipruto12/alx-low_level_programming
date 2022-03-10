@@ -2,7 +2,7 @@
 
 /**
  * main - starting point , encloses code block for execution.
- * Return 0 if executed properly.
+ * Return: 0 if executed properly.
  */
 int main(void)
 {
