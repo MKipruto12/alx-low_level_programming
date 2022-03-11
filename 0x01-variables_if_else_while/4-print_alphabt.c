@@ -8,13 +8,15 @@ int main(void)
 {
 	char abc;
 	abc = 'a';
-	for  (; abc <= 'z'; abc++)
+
+	for  (; abc <= 'z';)
 	{
-		if (abc != 'e' || abc != 'q')
+		if (abc == 'e' || abc == 'q')
 		{
-			putchar(abc++);
+			continue;
 		}
+		putchar(abc++);
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }
