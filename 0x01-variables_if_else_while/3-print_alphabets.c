@@ -10,7 +10,8 @@ int main(void)
 
 	for (abcz = 'a', ABCZ = 'A'; abcz <= 'z' || ABCZ <= 'Z';)
 	{
-		putchar(abcz++, ABCZ++);
+		putchar(abcz++);
+		putchar(ABCZ++);
 	}
 	putchar('\n');
 	return (0);
