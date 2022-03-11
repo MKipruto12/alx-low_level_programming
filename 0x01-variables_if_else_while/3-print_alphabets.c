@@ -6,12 +6,15 @@
  */
 int main(void)
 {
-	char abcz, ABCZ;
+	char abc_z, ABC_Z;
 
-	for (abcz = 'a', ABCZ = 'A'; abcz <= 'z' || ABCZ <= 'Z';)
+	for (abc_z = 'a'; abc_z <= 'z';)
 	{
-		putchar(abcz++);
-		putchar(ABCZ++);
+		putchar(abc_z++);
+	}
+	for (ABC_Z = 'A'; ABC_Z <= 'Z';)
+	{
+		putchar(ABC_Z++);
 	}
 	putchar('\n');
 	return (0);
