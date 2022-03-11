@@ -11,6 +11,6 @@ int main(void)
 
 	while (alphabet >= 'a')
 		putchar(alphabet--);
-	putchar('\');
+	putchar('\n');
 	return (0);
 }
