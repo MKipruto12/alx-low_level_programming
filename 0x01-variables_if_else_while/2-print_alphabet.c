@@ -6,7 +6,8 @@
 int main(void)
 {
 	char abc_z;
-	abc_z = 'a'
+
+	abc_z = 'a';
 	for (; abc_z <= 'z';)
 	{
 		putchar(abc_z);
