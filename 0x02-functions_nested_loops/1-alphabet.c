@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * main-code block prints alphabet in lowercase
- * Return: 0 if successful else non-zero
+ *print_alphabet- code block prints alphabet in lowercase
  */
 
-int main(void)
+void print_alphabet(void)
 {
 	char abc_z;
 
