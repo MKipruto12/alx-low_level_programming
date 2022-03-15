@@ -9,10 +9,10 @@ void print_alphabet_x10(void)
 	char abc_z;
 	int i = 0;
 
-	for(; i<10;)
+	for (; i < 10;)
 	{
 		abc_z = 'a';
-		for(; abc_z <= 'z';)
+		for (; abc_z <= 'z';)
 		{
 			_putchar(abc_z++);
 		}
