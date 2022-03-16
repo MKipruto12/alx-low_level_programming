@@ -1,4 +1,4 @@
-iinclude <stdio.h>
+#include <stdio.h>
 
 /**
  * main- prints first fibonacchi sequence

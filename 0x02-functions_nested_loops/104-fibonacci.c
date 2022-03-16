@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * finds and prints first 98 fibonacci
+ * main- finds and prints first 98 fibonacci
  * Return: 0 if successfully executed
  */
 
@@ -28,7 +28,7 @@ int main(void)
 
 	for (i = 92; i < 99; ++i)
 	{
-		printf(", %lu", k1 + (k2 +1000000000));
+		printf(", %lu", k1 + (k2 + 1000000000));
 		printf("%lu", k2 % 1000000000);
 		k1 = k1 + j1;
 		j1 = k1 - j1;
