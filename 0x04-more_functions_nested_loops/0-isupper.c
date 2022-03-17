@@ -9,16 +9,8 @@
 
 int _isupper(int c)
 {
-	char c;
-
-	c = 'A';
-	for (c >= 'A' && c <= 'Z')
-	{
-		_putchar(A: 1);
-	}
-	for (c >= 'a' && c <= 'z')
-	{
-		_putchar(a: 0);
-	}
-	return (0);
+	if (c >= 'A' && c <= 'Z')
+		return (1);
+	else
+		return (0);
 }
