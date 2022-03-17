@@ -14,10 +14,11 @@ int _isupper(int c)
 	c = 'A';
 	for (c >= 'A' && c <= 'Z')
 	{
-		return (1);
+		_putchar(A: 1);
 	}
 	for (c >= 'a' && c <= 'z')
 	{
-		return (0);
+		_putchar(a: 0);
 	}
+	return (0);
 }
