@@ -27,3 +27,13 @@
 * 0x05-pointers_arrays_strings
 
 >> * *contains files on pointers arrays and C strings*
+
+* 0x06-pointers_arrays_strings
+
+>> * *more files on pointers array and strings*
+
+* 0x07-pointers_arrays_strings
+
+>> * *more files on pointers arrays and strings*
+
+* 0x08-Recurssion
