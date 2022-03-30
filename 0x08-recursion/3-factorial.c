@@ -6,7 +6,7 @@
  * Return: factorial of number
  */
 
-int factoriant n)
+int factorial(int n)
 {
 	if (n < 0)
 	{
