@@ -37,3 +37,5 @@
 >> * *more files on pointers arrays and strings*
 
 * 0x08-Recurssion
+
+* 0x09-static_library
