@@ -1,8 +1,6 @@
 #include <stdlib.h>
 #include "dog.h"
 
-#define NULL (void *)0
-
 /**
  * free_dog - frees a dog struct
  * @d: pointer to struct to free
