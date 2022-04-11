@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <stdlib>
 #include "dog.h"
 
-#define NILL "(nil)"
+#define NILL (nil)
 
 /*
  * print_dog - prints contents of struct dog
