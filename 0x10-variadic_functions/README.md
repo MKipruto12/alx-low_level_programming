@@ -1,0 +1,5 @@
+# variadic functions
+
+## Resources
+
+### Files
