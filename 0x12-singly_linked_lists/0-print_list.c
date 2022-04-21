@@ -1,5 +1,8 @@
 #include "lists.h"
-
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stddef.h>
 
 /**
  * print_list - prints a linked list
@@ -11,7 +14,7 @@ size_t print_list(const list_t *h)
 {
 	int i = 0;
 
-	while (h)
+	while (h != NULL)
 	{
 		if (h->str == NULL)
 			printf("[0] (nil)\n");
