@@ -1,10 +1,6 @@
 # Malloc() _ Free()
 
-## Resources:
-
-* to be added
-
-### Files
+## Files
 
 * File 0-malloc_checked.c is a function that allocates memory using malloc.
 
