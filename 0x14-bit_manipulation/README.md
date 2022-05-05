@@ -1,9 +1,11 @@
 # Bit manipulation
 
 ## Resources
+
 * Read [Bit manipulation](https://hekilledmywire.wordpress.com/2011/03/01/bitwise-maths-and-logic-operators-tutorial-part-4/)
 
 ### Files
+
 File 0-binary_to_uint.c is a function that converts a binary number to an unsigned int.
 
 File 1-print_binary.c is a function that prints the binary representation of a number.
